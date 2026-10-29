@@ -340,9 +340,10 @@ $d \ll N^{1/4}$
 2. Cách 2: Code
 Các khái niệm chính: 
 - Xấp xỉ rất tốt: Giả sử ta có một số thực x. Một phần số $\frac{a}{b}$ gọi là xấp xỉ tốt nếu 
-$\left| x - \frac{a}{b} \right|$ rất nhỏ. Nhưng "rất tốt" trong ngữ cảnh Wiener có nghĩa cụ thể hơn: $$
-\left| x - \frac{a}{b} \right| < \frac{a}{2b^2}
-$$
+$\left| x - \frac{a}{b} \right|$ rất nhỏ. Nhưng "rất tốt" trong ngữ cảnh Wiener có nghĩa cụ thể hơn. 
+**Định lý Legendre**: Nếu phân số $\frac{a}{b}$ (đã tối giản, a>0) thỏa mãn:
+$|x - \frac{a}{b} < \frac{1}{2q^2}$
+thì \frac{a}{b} chắc chắn là một convergent trong biểu diễn continued fraction của x
 - 
 
 
